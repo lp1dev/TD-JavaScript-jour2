@@ -6,7 +6,7 @@ Pour rappel, une suite de Fibonacci est définie par
 
 fib(n+1) = fib(n) + fib(n - 1)
 
-fib(0) == 1 et fib(1) == 1
+fib(0) == 0 et fib(1) == 1
 
 Par exemple :
 
