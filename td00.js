@@ -19,7 +19,7 @@ const fib = (n) => {
 }
 
 /* Testing Part */
-const terms = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144]
+const terms = [0, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144]
 function test() {
     for (index in terms) {
         if (fib(index) !== terms[index])
