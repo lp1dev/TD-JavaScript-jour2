@@ -5,7 +5,7 @@ Le but de ce projet est de réaliser une application web affichant un flux de ne
 *Il est réalisable soit seul, soit par groupe de 2 personnes maximum.*
 
 La récupération des données d'actualités se fera à l'aide de https://newsapi.org/, 
-** attention ** : pour réaliser ce projet il est donc nécessaire d'obtenir une API_KEY sur https://newsapi.org/register.
+**attention** : pour réaliser ce projet il est donc nécessaire d'obtenir une API_KEY sur https://newsapi.org/register.
 
 Ce projet sera composé de deux parties :
 
@@ -31,7 +31,12 @@ récupération d'un nouveau message.
 Il est conseillé pour le front-end de démarrer en utilisant https://github.com/lp1dev/webpack-boilerplate comme base. 
 Vous gagnerez du temps de configuration de votre projet.
 
+Les dépendances de la boilerplate s'installent avec 
+> npm install
+
 Le front-end doit être réalisé en HTML/CSS et JavaScript.
+
+**Le nombre de fonctionnalités, la qualité du code et du design global seront pris en compte dans la note globale du projet !**
 
 Il doit présenter au moins deux vues : une vue présentant l'ensemble des messages reçus de l'API et une vue permettant 
 d'afficher le contenu d'un seul message après avoir cliqué dessus.
