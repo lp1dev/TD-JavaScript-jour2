@@ -1,6 +1,6 @@
 /* TD00 - Suite de Fibonacci
 
-Écrivez une fonction f(n) calculant les n premiers termes d'une suite de Fibonacci.
+Écrivez une fonction f(n) calculant le terme n d'une suite de Fibonacci.
 
 Pour rappel, une suite de Fibonacci est définie par
 
