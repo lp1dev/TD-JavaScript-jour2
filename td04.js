@@ -12,5 +12,5 @@ const fibFilter = (array) => {
 }
 
 /* Testing Part */
-const array = [0,1,4,5,13,2,3,4,20,30,11,8,12]
+const array = [1,4,5,13,2,3,4,20,30,11,8,12]
 console.log(fibFilter(array).toString() == [ 1, 5, 13, 2, 3, 8].toString() ? 'TD01 :: Success' : 'TD01 :: Failed')
